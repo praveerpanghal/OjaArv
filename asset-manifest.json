@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d20202a4.css",
-    "main.js": "/static/js/main.d0dc1f5f.js",
-    "static/js/787.7f8e6d2c.chunk.js": "/static/js/787.7f8e6d2c.chunk.js",
-    "index.html": "/index.html",
-    "main.d20202a4.css.map": "/static/css/main.d20202a4.css.map",
-    "main.d0dc1f5f.js.map": "/static/js/main.d0dc1f5f.js.map",
-    "787.7f8e6d2c.chunk.js.map": "/static/js/787.7f8e6d2c.chunk.js.map"
+    "main.css": "/OjaArv/static/css/main.d20202a4.css",
+    "main.js": "/OjaArv/static/js/main.713a301d.js",
+    "static/js/787.7f8e6d2c.chunk.js": "/OjaArv/static/js/787.7f8e6d2c.chunk.js",
+    "index.html": "/OjaArv/index.html",
+    "main.d20202a4.css.map": "/OjaArv/static/css/main.d20202a4.css.map",
+    "main.713a301d.js.map": "/OjaArv/static/js/main.713a301d.js.map",
+    "787.7f8e6d2c.chunk.js.map": "/OjaArv/static/js/787.7f8e6d2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d20202a4.css",
-    "static/js/main.d0dc1f5f.js"
+    "static/js/main.713a301d.js"
   ]
 }
