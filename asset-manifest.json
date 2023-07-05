@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/OjaArv/static/css/main.d20202a4.css",
-    "main.js": "/OjaArv/static/js/main.802f6b03.js",
+    "main.js": "/OjaArv/static/js/main.7d9321d5.js",
     "static/js/787.7f8e6d2c.chunk.js": "/OjaArv/static/js/787.7f8e6d2c.chunk.js",
     "index.html": "/OjaArv/index.html",
     "main.d20202a4.css.map": "/OjaArv/static/css/main.d20202a4.css.map",
-    "main.802f6b03.js.map": "/OjaArv/static/js/main.802f6b03.js.map",
+    "main.7d9321d5.js.map": "/OjaArv/static/js/main.7d9321d5.js.map",
     "787.7f8e6d2c.chunk.js.map": "/OjaArv/static/js/787.7f8e6d2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d20202a4.css",
-    "static/js/main.802f6b03.js"
+    "static/js/main.7d9321d5.js"
   ]
 }
