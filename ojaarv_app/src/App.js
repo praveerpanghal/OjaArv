@@ -5,7 +5,7 @@ import AppRouter from './AppRouter';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename='/OjaArv'>
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <a className="navbar-brand" href="/">OjaArv</a>
