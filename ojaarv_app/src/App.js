@@ -5,10 +5,10 @@ import AppRouter from './AppRouter';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename='OjaArv'>
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-          <a className="navbar-brand" href="/">OjaArv</a>
+          <a className="navbar-brand" href="/OjaArv">OjaArv</a>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
