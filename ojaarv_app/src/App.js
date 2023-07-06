@@ -1,11 +1,11 @@
 import React from 'react';
-import { BrowserRouter as Router, Link  } from 'react-router-dom';
+import { BrowserRouter  as Router, Link  } from 'react-router-dom';
 import AppRouter from './AppRouter';
 
 
 const App = () => {
   return (
-    <Router basename='OjaArv'>
+    <Router basename='/OjaArv'>
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <a className="navbar-brand" href="/OjaArv">OjaArv</a>
